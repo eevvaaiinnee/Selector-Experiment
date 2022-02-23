@@ -1,0 +1,31 @@
+.countryy * {
+  font-size: 30px;
+}
+
+.countryy .europee {
+  text-align: left;
+}
+
+.countryy .americaa {
+  text-align: right;
+}
+
+.food > div {
+  background-color: #808080;
+}
+
+div, p {
+  font-style: italic;
+}
+
+div::first-letter {
+  font-size: 50px;
+}
+
+.soupp {
+  margin: 10vh;
+}
+
+.europee:nth-child(2) {
+  color: blue;
+}
